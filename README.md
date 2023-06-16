@@ -14,3 +14,8 @@ Multi Layer Perceptron for Classification with Java.
 - Select Fields
 - Transform to Numeric
 
+## 3. Building an Image Pipeline for Deeplearning4j With DataVec
+
+### Datavec Image Pipeline
+- ParentPathLabelGenerator
+- ImagePreProcessingScaler

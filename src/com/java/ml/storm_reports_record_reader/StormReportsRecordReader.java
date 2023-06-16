@@ -30,7 +30,7 @@ public class StormReportsRecordReader {
 		String outputPath = baseDir + "reports_processed_" + timeStamp;
 
 		/*
-		 * Dataset table columns are datetime, severity, location, country, state,
+		 * Data set table columns are datetime, severity, location, country, state,
 		 * latitude, longitude, comment, type
 		 */
 
