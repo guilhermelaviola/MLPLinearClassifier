@@ -19,3 +19,12 @@ Multi Layer Perceptron for Classification with Java.
 ### Datavec Image Pipeline
 - ParentPathLabelGenerator
 - ImagePreProcessingScaler
+
+## 4. Plugging a Neural Network into an Image Pipeline
+
+### Adding a Neural Net to DataVec Image Pipeline
+- MultiLayerNetwork
+- Train Model
+- Test Model
+
+Source: https://www.youtube.com/watch?v=ECA6y6ahH5E&list=PLw-lNJnl6zG9zQ1aDKWnUBwd4eC2JAG6_&index=1
