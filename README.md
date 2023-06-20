@@ -27,4 +27,10 @@ Multi Layer Perceptron for Classification with Java.
 - Train Model
 - Test Model
 
+## 5. Save And Load Deep Learning Models With Deeplearning4j
+
+### Model Saving and Loading
+- ModelSerializer.writeModel
+- ModelSerializer.restoreMultilayerNetwork
+
 Source: https://www.youtube.com/watch?v=ECA6y6ahH5E&list=PLw-lNJnl6zG9zQ1aDKWnUBwd4eC2JAG6_&index=1
